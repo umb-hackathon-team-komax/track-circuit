@@ -2,25 +2,26 @@
 List of Hardware and Material we will need.
 
 ## Komax
-- Machine (conveyor belt) and controll unit
-- Raspberry Pi's (2x)
-- Raspberry Power Cable (2x)
-- Raspberry SD-Cards and SD-Adapter (2x)
-- Raspberry HDMI Cables (2x)
-- Raspberry Mouse and Keyboard
-- Raspberry Pi Monitors (1x)
+- Machine (conveyor belt) and controll unit ✔️
+- Raspberry Pi's (2x) ✔️
+- Raspberry Power Cable (2x) ✔️
+- Raspberry SD-Cards and SD-Adapter (2x) ✔️
+- Raspberry HDMI Cables (2x) ✔️
+- Raspberry Mouse and Keyboard ✔️
+- Raspberry Pi Monitors (1x) ✔️
 
-- Monitors (4x)
-- HDMI Cable (4x)
-- Monitor Powercable (4x)
+- Monitors (3x) ✔️
+- HDMI Cable (3x) ✔️
+- Monitor Powercable (4x) ✔️
 
-- Network cables (Multiple lengths)
-- Switch with Power cable
+- Network cables (Multiple lengths) ✔️
+- Switch with Power cable ✔️
 
 - Steckleiste und Kabelrolle (diverse)
+- USB to Ethernet
 
 ## Noah
-- Router 
+- USB Lade-Hub
 
 ## Pino
 - Steckleiste und Kabelrolle (**In case of emergency**)
@@ -29,4 +30,4 @@ List of Hardware and Material we will need.
 ## Simon
 - Router
 - Arduino with ethernet shiel
-- USB to Ethernet
+
