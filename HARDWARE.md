@@ -18,7 +18,6 @@ List of Hardware and Material we will need.
 - Switch with Power cable
 
 - Steckleiste und Kabelrolle (diverse)
-- 
 
 ## Noah
 - Router 
