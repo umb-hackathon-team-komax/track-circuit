@@ -30,3 +30,4 @@ List of Hardware and Material we will need.
 ## Simon
 - Router
 - Arduino with ethernet shiel
+- USB to Ethernet
