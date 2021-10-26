@@ -1,2 +1,3 @@
-# track-circuit
-Documentation and Projectfiles
+# Track Circuit
+
+[Hardware and Material list](HARDWARE.md)
