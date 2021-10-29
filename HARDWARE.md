@@ -17,17 +17,17 @@ List of Hardware and Material we will need.
 - Network cables (Multiple lengths) ✔️
 - Switch with Power cable ✔️
 
-- Steckleiste und Kabelrolle (diverse)
-- USB to Ethernet
+- Steckleiste und Kabelrolle (diverse) ✔️
+- USB to Ethernet ✔️
 
 ## Noah
-- USB Lade-Hub
+- USB Lade-Hub ✔️
 
 ## Pino
-- Steckleiste und Kabelrolle (**In case of emergency**)
-- Mouse and Keyboard
+- Steckleiste und Kabelrolle (**In case of emergency**) ✔️
+- Mouse and Keyboard ✔️
 
 ## Simon
-- Router
-- Arduino with ethernet shiel
+- Router ✔️
+- Arduino with ethernet shiel ✔️
 
